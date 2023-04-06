@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mollymitchell70
 - 👀 I’m interested in microbiology & bioinformatics
 - 🌱 I’m currently learning how to successfully finish my PhD...
-- 💞️ I’m looking to collaborate on nothing @ the moment 
+- 💞️ I’m looking to collaborate on nothing @ the moment since I'm finishing grad school
 - 📫 You can reach me at mollymitchell70@gmail.com
 
 <!---
